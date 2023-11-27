@@ -29,3 +29,5 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
  - un rama con lineaCuatro
  estoy en la linea 4 para trabajar las pruebas correspondiente
 >>>>>>> lineaCuatro
+
+Probando con fetch y pull.
